@@ -1,0 +1,18 @@
+#navBarPartial{
+    display: flex;
+    justify-content: space-between
+}
+#navBarPartial div{
+    border: 1px solid grey;
+}
+#logo{
+    width:100px;
+    height: 100px;
+    text-align:center;
+    line-height: 100px;
+    color:black;
+    background-color: #cccccc;
+}
+#aLinks{
+
+}

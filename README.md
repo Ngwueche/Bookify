@@ -1,0 +1,2 @@
+﻿Bookify is a web application built with .Net 8 MVC architecture to enable users view, review, rate and reward writers/authors based.
+Technologies: MicroSoft EFCore, Microsoft.AspNetCore.Identity, SQLServer, HTML, CSS, Stripe.
